@@ -1,5 +1,5 @@
 
-package fix;
+package fix2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
